@@ -1,2 +1,2 @@
 # expressapi
-Express Image Minifier
+Express.js Image Minifier
